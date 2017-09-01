@@ -1,0 +1,65 @@
+<manifest alg="2" build="5" opt="false" iceEnabled="true">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4074026371" ref="tablet>index"/>
+      <file name="index.css" crc="3960487135" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4217737742" mt="1401733622826" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4095897909" ref="phone>index"/>
+      <file name="index.css" crc="4016794204" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4011086815" mt="1401733622826" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="442496599"/>
+    <file name="master_a-master.css" crc="397412461" ref="index"/>
+    <file name="index.css" crc="490202551" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:phone>index:tablet>index"/>
+    <file name="museutils.js" crc="3880880085" ref="index:phone>index:tablet>index"/>
+    <file name="pie.js" crc="4147615982" ref="index"/>
+    <file name="webpro.js" crc="33264525" ref="index:tablet>index"/>
+    <file name="musewpslideshow.js" crc="272207905" ref="index:tablet>index"/>
+    <file name="jquery.museoverlay.js" crc="466079611" ref="index:tablet>index"/>
+    <file name="touchswipe.js" crc="261777990" ref="index:tablet>index"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:phone>index:tablet>index"/>
+    <file name="museredirect.js" crc="299715755" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="background_7.jpg" crc="425096148" ref="index"/>
+    <file name="portrait3.jpg" crc="3917990665" ref="index:tablet>index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:tablet>index"/>
+    <file name="angel.jpg" crc="180508937" ref="index:tablet>index"/>
+    <file name="bkground1.jpg" crc="206362641" ref="index:tablet>index"/>
+    <file name="portrait4.jpg" crc="3996761576" ref="index:tablet>index"/>
+    <file name="horse_nebual.jpg" crc="353111767" ref="index:tablet>index"/>
+    <file name="in_creation.jpg" crc="3876624602" ref="index:tablet>index"/>
+    <file name="large-square_2.jpg" crc="41735427" ref="index:tablet>index"/>
+    <file name="planet_x.jpg" crc="318551088" ref="index:tablet>index"/>
+    <file name="large-square_1.jpg" crc="3857295985" ref="index:tablet>index"/>
+    <file name="the_cell.jpg" crc="4265279499" ref="index:tablet>index"/>
+    <file name="portrait2.jpg" crc="3892407276" ref="index:tablet>index"/>
+    <file name="the_dance.jpg" crc="4279544069" ref="index:tablet>index"/>
+    <file name="large-landscape.jpg" crc="4148530301" ref="index:tablet>index"/>
+    <file name="the_drift.jpg" crc="283930626" ref="index:tablet>index"/>
+    <file name="the_minds_eye.jpg" crc="3907594197" ref="index:tablet>index"/>
+    <file name="the_nursery.jpg" crc="4142146937" ref="index:tablet>index"/>
+    <file name="portrait1.jpg" crc="4266180439" ref="index:tablet>index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:tablet>index"/>
+    <file name="logo.png" crc="3925209423" ref="index:phone>index:tablet>index"/>
+    <file name="horse_nebual60x100.jpg" crc="4014156521" ref="phone>index"/>
+    <file name="the_dance60x98.jpg" crc="160581888" ref="phone>index"/>
+    <file name="dscf5901e.jpg" crc="491487419" ref="phone>index"/>
+    <file name="the_drift60x32.jpg" crc="4112108261" ref="phone>index"/>
+    <file name="planet_x60x60.jpg" crc="3916815541" ref="phone>index"/>
+    <file name="the_nursery60x95.jpg" crc="34170960" ref="phone>index"/>
+    <file name="angel60x99.jpg" crc="3882104072" ref="phone>index"/>
+    <file name="in_creation60x39.jpg" crc="4086008556" ref="phone>index"/>
+    <file name="the_cell60x20.jpg" crc="4026832557" ref="phone>index"/>
+  </folder>
+  <file name="index.html" crc="3774964406" mt="1401733622824" redirect="true"/>
+</manifest>
